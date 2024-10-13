@@ -1,0 +1,8 @@
+*.pyc
+config.py
+somefolder/*
+tmp/*
+results
+*.nii.gz
+*.npy
+.DS_Store

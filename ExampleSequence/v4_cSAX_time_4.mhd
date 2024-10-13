@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 746102
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -96.461159706114998 -139.33578157424 -115.22633552551
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 1.25 1.25 7.9999999477148354
+DimSize = 256 256 14
+ElementType = MET_USHORT
+ElementDataFile = v4_cSAX_time_4.zraw
